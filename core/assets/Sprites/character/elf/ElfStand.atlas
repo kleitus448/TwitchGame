@@ -1,0 +1,125 @@
+
+ElfStand.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+attack1
+  rotate: false
+  xy: 2, 1609
+  size: 708, 353
+  orig: 719, 364
+  offset: 11, 7
+  index: -1
+attack
+  rotate: false
+  xy: 363, 1253
+  size: 350, 354
+  orig: 719, 364
+  offset: 4, 4
+  index: -1
+attack
+  rotate: false
+  xy: 318, 900
+  size: 304, 351
+  orig: 719, 364
+  offset: 13, 8
+  index: -1
+die
+  rotate: false
+  xy: 2, 1356
+  size: 359, 251
+  orig: 435, 388
+  offset: 70, 34
+  index: -1
+die
+  rotate: false
+  xy: 2, 1064
+  size: 314, 290
+  orig: 435, 388
+  offset: 67, 35
+  index: -1
+die
+  rotate: false
+  xy: 715, 913
+  size: 304, 351
+  orig: 435, 388
+  offset: 19, 16
+  index: -1
+die
+  rotate: false
+  xy: 284, 204
+  size: 272, 350
+  orig: 435, 388
+  offset: 2, 4
+  index: -1
+die
+  rotate: false
+  xy: 2, 2
+  size: 255, 363
+  orig: 435, 388
+  offset: 54, 10
+  index: -1
+hurt
+  rotate: false
+  xy: 2, 711
+  size: 304, 351
+  orig: 350, 383
+  offset: 38, 8
+  index: -1
+hurt
+  rotate: false
+  xy: 624, 569
+  size: 298, 342
+  orig: 350, 383
+  offset: 22, 5
+  index: -1
+hurt
+  rotate: false
+  xy: 308, 556
+  size: 298, 342
+  orig: 350, 383
+  offset: 22, 5
+  index: -1
+hurt
+  rotate: false
+  xy: 2, 367
+  size: 280, 342
+  orig: 350, 383
+  offset: 9, 2
+  index: -1
+hurt
+  rotate: false
+  xy: 608, 225
+  size: 280, 342
+  orig: 350, 383
+  offset: 9, 2
+  index: -1
+standing
+  rotate: false
+  xy: 712, 1616
+  size: 309, 346
+  orig: 329, 357
+  offset: 7, 0
+  index: -1
+standing
+  rotate: false
+  xy: 712, 1616
+  size: 309, 346
+  orig: 329, 357
+  offset: 7, 0
+  index: -1
+standing
+  rotate: false
+  xy: 715, 1266
+  size: 307, 348
+  orig: 329, 357
+  offset: 7, 0
+  index: -1
+standing
+  rotate: false
+  xy: 715, 1266
+  size: 307, 348
+  orig: 329, 357
+  offset: 7, 0
+  index: -1

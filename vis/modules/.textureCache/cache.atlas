@@ -1,0 +1,594 @@
+
+cache.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sprites/Menu/add93f336cdc02859062c7abbdd5629e
+  rotate: false
+  xy: 2582, 3696
+  size: 614, 393
+  orig: 614, 393
+  offset: 0, 0
+  index: -1
+Sprites/Menu/button_bg_active
+  rotate: false
+  xy: 3776, 3661
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprites/Menu/button_bg_noactive
+  rotate: false
+  xy: 3776, 3559
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+Sprites/Menu/exit1
+  rotate: false
+  xy: 3162, 1554
+  size: 160, 271
+  orig: 160, 271
+  offset: 0, 0
+  index: -1
+Sprites/Menu/shop
+  rotate: false
+  xy: 3812, 3211
+  size: 273, 346
+  orig: 273, 346
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/1_KNIGHT/1_body_
+  rotate: false
+  xy: 924, 1512
+  size: 650, 531
+  orig: 650, 531
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/1_KNIGHT/1_head_
+  rotate: false
+  xy: 1846, 2000
+  size: 588, 573
+  orig: 588, 573
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/1_KNIGHT/1_left arm_
+  rotate: false
+  xy: 3861, 1846
+  size: 233, 380
+  orig: 233, 380
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/1_KNIGHT/1_left lag_
+  rotate: false
+  xy: 3057, 264
+  size: 250, 262
+  orig: 250, 262
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/1_KNIGHT/1_right arm_
+  rotate: false
+  xy: 1213, 132
+  size: 393, 210
+  orig: 393, 210
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/1_KNIGHT/1_right lag_
+  rotate: false
+  xy: 2436, 2097
+  size: 251, 262
+  orig: 251, 262
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/1_KNIGHT/1_shield_
+  rotate: false
+  xy: 2444, 2619
+  size: 330, 399
+  orig: 330, 399
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/2_KNIGHT/2_ax_
+  rotate: false
+  xy: 1537, 934
+  size: 551, 510
+  orig: 551, 510
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/2_KNIGHT/2_body_
+  rotate: false
+  xy: 2928, 3055
+  size: 440, 483
+  orig: 440, 483
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/2_KNIGHT/2_head_
+  rotate: false
+  xy: 1256, 344
+  size: 536, 588
+  orig: 536, 588
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/2_KNIGHT/2_left arm_
+  rotate: false
+  xy: 3693, 2656
+  size: 270, 396
+  orig: 270, 396
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/2_KNIGHT/2_left lag_
+  rotate: false
+  xy: 3130, 1175
+  size: 225, 261
+  orig: 225, 261
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/2_KNIGHT/2_right arm_
+  rotate: false
+  xy: 1794, 61
+  size: 306, 357
+  orig: 306, 357
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/2_KNIGHT/2_right lag_
+  rotate: false
+  xy: 3313, 912
+  size: 222, 261
+  orig: 222, 261
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/2_KNIGHT/2_shield_
+  rotate: false
+  xy: 3105, 2595
+  size: 294, 457
+  orig: 294, 457
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/3_KNIGHT/3_body_
+  rotate: false
+  xy: 3370, 3054
+  size: 440, 484
+  orig: 440, 484
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/3_KNIGHT/3_head_
+  rotate: false
+  xy: 1846, 3535
+  size: 734, 554
+  orig: 734, 554
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/3_KNIGHT/3_left arm_
+  rotate: false
+  xy: 3623, 1846
+  size: 236, 380
+  orig: 236, 380
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/3_KNIGHT/3_left lag_
+  rotate: false
+  xy: 3086, 912
+  size: 225, 261
+  orig: 225, 261
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/3_KNIGHT/3_right arm_
+  rotate: false
+  xy: 2102, 60
+  size: 306, 358
+  orig: 306, 358
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/3_KNIGHT/3_right lag_
+  rotate: false
+  xy: 3312, 649
+  size: 222, 261
+  orig: 222, 261
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/3_KNIGHT/3_shield_
+  rotate: false
+  xy: 2721, 648
+  size: 363, 378
+  orig: 363, 378
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-062999-2d-fantasy-knight-free-sprite-sheets/__SCML/3_KNIGHT/3_sword_
+  rotate: false
+  xy: 2466, 3032
+  size: 460, 501
+  orig: 460, 501
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_PNG/2/1_IDLE_000
+  rotate: false
+  xy: 2, 3068
+  size: 920, 1021
+  orig: 920, 1021
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_PNG/2/1_IDLE_001
+  rotate: false
+  xy: 2, 2045
+  size: 920, 1021
+  orig: 920, 1021
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_PNG/2/1_IDLE_002
+  rotate: false
+  xy: 924, 3068
+  size: 920, 1021
+  orig: 920, 1021
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_PNG/2/1_IDLE_003
+  rotate: false
+  xy: 2, 1022
+  size: 920, 1021
+  orig: 920, 1021
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_PNG/2/1_IDLE_004
+  rotate: false
+  xy: 924, 2045
+  size: 920, 1021
+  orig: 920, 1021
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_arm left
+  rotate: false
+  xy: 1608, 89
+  size: 175, 253
+  orig: 175, 253
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_arm right
+  rotate: false
+  xy: 3312, 425
+  size: 211, 222
+  orig: 211, 222
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_body
+  rotate: false
+  xy: 2308, 436
+  size: 411, 516
+  orig: 411, 516
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_bow1
+  rotate: false
+  xy: 3401, 2477
+  size: 290, 575
+  orig: 290, 575
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_bow2
+  rotate: false
+  xy: 3162, 1827
+  size: 175, 593
+  orig: 175, 593
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_fingers left
+  rotate: false
+  xy: 3465, 1797
+  size: 111, 162
+  orig: 111, 162
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_hand left
+  rotate: false
+  xy: 2717, 14
+  size: 229, 179
+  orig: 229, 179
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_hand right
+  rotate: false
+  xy: 3862, 2278
+  size: 222, 164
+  orig: 222, 164
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_head
+  rotate: false
+  xy: 3198, 3540
+  size: 576, 549
+  orig: 576, 549
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_leg left
+  rotate: false
+  xy: 3057, 5
+  size: 227, 257
+  orig: 227, 257
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_leg right
+  rotate: false
+  xy: 3286, 2
+  size: 227, 260
+  orig: 227, 260
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/1_quiver
+  rotate: false
+  xy: 2518, 1028
+  size: 382, 455
+  orig: 382, 455
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/1/arrow
+  rotate: false
+  xy: 2721, 528
+  size: 360, 118
+  orig: 360, 118
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/2/2_arm left
+  rotate: false
+  xy: 2410, 119
+  size: 305, 315
+  orig: 305, 315
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/2/2_arm right
+  rotate: false
+  xy: 2704, 1587
+  size: 227, 372
+  orig: 227, 372
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/2/2_body
+  rotate: false
+  xy: 2143, 1485
+  size: 559, 513
+  orig: 559, 513
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/2/2_head
+  rotate: false
+  xy: 1846, 3020
+  size: 618, 513
+  orig: 618, 513
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/2/2_leg left
+  rotate: false
+  xy: 2689, 2101
+  size: 227, 258
+  orig: 227, 258
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/2/2_leg right
+  rotate: false
+  xy: 2902, 1175
+  size: 226, 261
+  orig: 226, 261
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/2/fingers left
+  rotate: false
+  xy: 3339, 1781
+  size: 124, 178
+  orig: 124, 178
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/fingers left
+  rotate: false
+  xy: 3339, 1781
+  size: 124, 178
+  orig: 124, 178
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/2/sword
+  rotate: false
+  xy: 2776, 2454
+  size: 327, 576
+  orig: 327, 576
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/1_boll
+  rotate: false
+  xy: 2721, 195
+  size: 334, 331
+  orig: 334, 331
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/2_,boll
+  rotate: false
+  xy: 3623, 2228
+  size: 237, 214
+  orig: 237, 214
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/3_arm left
+  rotate: false
+  xy: 3776, 3763
+  size: 311, 326
+  orig: 311, 326
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/3_arm right
+  rotate: false
+  xy: 3086, 538
+  size: 224, 372
+  orig: 224, 372
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/3_body
+  rotate: false
+  xy: 688, 463
+  size: 566, 557
+  orig: 566, 557
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/3_boll
+  rotate: false
+  xy: 3525, 454
+  size: 211, 193
+  orig: 211, 193
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/3_head
+  rotate: false
+  xy: 1576, 1446
+  size: 565, 552
+  orig: 565, 552
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/3_leg left
+  rotate: false
+  xy: 2933, 1701
+  size: 227, 258
+  orig: 227, 258
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/3_leg right
+  rotate: false
+  xy: 2933, 1438
+  size: 227, 261
+  orig: 227, 261
+  offset: 0, 0
+  index: -1
+Sprites/craftpix-392011-2d-fantasy-elf-free-sprite-sheets/_SCML/3/stick
+  rotate: false
+  xy: 3373, 1961
+  size: 248, 514
+  orig: 248, 514
+  offset: 0, 0
+  index: -1
+Sprites/cursors/attackCursor
+  rotate: false
+  xy: 2518, 962
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Sprites/cursors/textCursor
+  rotate: false
+  xy: 4089, 3889
+  size: 5, 200
+  orig: 5, 200
+  offset: 0, 0
+  index: -1
+Sprites/fight_arena/grass
+  rotate: false
+  xy: 3693, 2444
+  size: 270, 210
+  orig: 270, 210
+  offset: 0, 0
+  index: -1
+Sprites/fight_arena/objects/cloud
+  rotate: false
+  xy: 3105, 2422
+  size: 266, 171
+  orig: 266, 171
+  offset: 0, 0
+  index: -1
+Sprites/inventory/cooldown
+  rotate: false
+  xy: 2090, 954
+  size: 426, 490
+  orig: 426, 490
+  offset: 0, 0
+  index: -1
+Sprites/inventory/inventory
+  rotate: false
+  xy: 924, 1058
+  size: 386, 46
+  orig: 386, 46
+  offset: 0, 0
+  index: -1
+Sprites/inventory/ultimate
+  rotate: false
+  xy: 1482, 1169
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+Sprites/message/message
+  rotate: false
+  xy: 924, 1215
+  size: 611, 295
+  orig: 611, 295
+  offset: 0, 0
+  index: -1
+Sprites/message/message_button
+  rotate: false
+  xy: 1213, 62
+  size: 307, 68
+  orig: 307, 68
+  offset: 0, 0
+  index: -1
+Sprites/minecraft_inventory_gui_by_lrezz_by_lrezz-d7u3o24
+  rotate: false
+  xy: 1794, 420
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Sprites/registration/close
+  rotate: false
+  xy: 2444, 2361
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Sprites/registration/field
+  rotate: false
+  xy: 1576, 2013
+  size: 160, 30
+  orig: 160, 30
+  offset: 0, 0
+  index: -1
+Sprites/registration/gfx_web_ui_ii
+  rotate: false
+  xy: 1846, 2575
+  size: 596, 443
+  orig: 596, 443
+  offset: 0, 0
+  index: -1
+Sprites/registration/rgbutton_default
+  rotate: false
+  xy: 688, 354
+  size: 556, 107
+  orig: 556, 107
+  offset: 0, 0
+  index: -1
+Sprites/registration/rgbutton_pressed
+  rotate: false
+  xy: 924, 1106
+  size: 556, 107
+  orig: 556, 107
+  offset: 0, 0
+  index: -1
+Sprites/registration/rgbutton_selected
+  rotate: false
+  xy: 2582, 3587
+  size: 556, 107
+  orig: 556, 107
+  offset: 0, 0
+  index: -1
+Sprites/registration/wrong
+  rotate: false
+  xy: 688, 25
+  size: 523, 327
+  orig: 523, 327
+  offset: 0, 0
+  index: -1
+Sprites/registration/wrong_bg
+  rotate: false
+  xy: 2, 58
+  size: 684, 962
+  orig: 684, 962
+  offset: 0, 0
+  index: -1
+Sprites/shop/cell
+  rotate: false
+  xy: 3862, 2228
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
